@@ -12,7 +12,7 @@
 }
 
 .backgroundImage {
-	background-imagea: url(../img/wrench.png);
+	background-images: url(../img/wrench.png);
 	width: 400px;
 	height: 400px;
 }
