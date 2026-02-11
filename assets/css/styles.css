@@ -4,6 +4,13 @@
 	font-family: Arial;
 }
 
+.rubik-<uniquifier>, h1 {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 body {
 	margin: 100px auto;
 	width: 50%;
