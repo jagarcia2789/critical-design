@@ -11,6 +11,12 @@
   font-style: 3em;
 }
 
+.backgroundImage {
+	background-imagea: url(../img/wrench.png);
+	width: 400px;
+	height: 400px;
+}
+
 body {
 	margin: 100px auto;
 	width: 50%;
